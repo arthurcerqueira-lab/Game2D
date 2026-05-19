@@ -24,7 +24,7 @@ class AlienInvasion:
         )
         pygame.display.set_caption("Alien Invasion")
 
-        # Criando uma instância da classe Ship para representar a nave espacial
+        # Criando uma instância da classe Ship para representar a ngit ave espacial
         self.ship = Ship(self.screen, self.settings)
 
         # Mudando a cor do plano de fundo em RGB
